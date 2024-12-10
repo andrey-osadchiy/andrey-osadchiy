@@ -4,7 +4,11 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spbgpuosadchiy@gmail.com)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Andrey_osadchiy)
+---
 
+Меня зовут Андрей Осадчий, спасибо, что заинтересовались моим профилем на GitHub! 🚀
+
+---
 
 <!--
 **andrey-osadchiy/andrey-osadchiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
